@@ -24,7 +24,7 @@
               "body": {
                 "id": "https://cantaloupe-dariah-lab1.apps.dcw1.paas.psnc.pl/iiif/3/00410cf7-a5b9-4ab1-86a8-26b521557fd0__0bddf6e7e01038aa36c7__60fe84bf-e654-49c5-979f-6b0c27770755__generated__owl.tif",
                 "type": "Image",
-                "format": "image/tif",
+                "format": "image/jpeg",
                 "height": 220,
                 "width": 450
               },
@@ -50,7 +50,7 @@
               "body": {
                 "id": "https://cantaloupe-dariah-lab1.apps.dcw1.paas.psnc.pl/iiif/3/00410cf7-a5b9-4ab1-86a8-26b521557fd0__0bddf6e7e01038aa36c7__02e49219-38b4-4c9b-ab19-84f76f7058a4__generated__owl2.tif",
                 "type": "Image",
-                "format": "image/tif",
+                "format": "image/jpeg",
                 "height": 220,
                 "width": 450
               },
