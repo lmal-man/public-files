@@ -1,0 +1,34 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://cantaloupe-dariah-lab1.apps.dcw1.paas.psnc.pl/manifest-51b6023af39e479cb3a001665fd16e28.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Manifest for resource_id: d37afa0664f3efa081e8"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://cantaloupe-dariah-lab1.apps.dcw1.paas.psnc.pl/canvas_1.1",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://cantaloupe-dariah-lab1.apps.dcw1.paas.psnc.pl/canvas_1.1/page_1.1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://cantaloupe-dariah-lab1.apps.dcw1.paas.psnc.pl/canvas_1.1/page_1.1/annotation_1.1",
+              "type": "Annotation",
+              "body": {
+                "id": "https://nginx-dariah-lab1.apps.dcw1.paas.psnc.pl/public/files/00410cf7-a5b9-4ab1-86a8-26b521557fd0/d37afa0664f3efa081e8/939aac2d-ffb6-4fae-b9f4-4af8c0463d79/darude_sandstorm.mp4",
+                "type": "Video",
+                "format": "video/mp4"
+              },
+              "target": "https://cantaloupe-dariah-lab1.apps.dcw1.paas.psnc.pl/canvas_1.1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
