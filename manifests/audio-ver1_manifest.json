@@ -1,0 +1,34 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://iiif.lab.dariah.pl/files/aa6f5ecd-ca53-4aa1-8262-b28ec65417d3/e715a74696cc075f217f/manifest-f3682fbea42e4da5bd6132a7d914bede.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Manifest for resource_id: e715a74696cc075f217f"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://iiif.lab.dariah.pl/images/canvas_1.1",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://iiif.lab.dariah.pl/images/canvas_1.1/page_1.1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.lab.dariah.pl/images/canvas_1.1/page_1.1/annotation_1.1",
+              "type": "Annotation",
+              "body": {
+                "id": "https://iiif.lab.dariah.pl/files/aa6f5ecd-ca53-4aa1-8262-b28ec65417d3/e715a74696cc075f217f/04da0fca-b980-4706-9f01-d00a6a182f9a/sample_audio.mp3",
+                "type": "Sound",
+                "format": "audio/mpeg"
+              },
+              "target": "https://iiif.lab.dariah.pl/images/canvas_1.1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
